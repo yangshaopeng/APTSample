@@ -1,1 +1,1 @@
-include ':app', ':APTLib'
+include ':app', ':APTCompile', ':APTAnnotation'
